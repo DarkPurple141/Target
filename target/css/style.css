@@ -1,0 +1,51 @@
+input[type=submit] {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 8px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+
+button[type=submit] {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 8px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+
+
+th {
+    background-color: #4CAF50;
+    color: white;
+    height: 40px;
+    padding: 13px;
+}
+
+td:hover {
+    background-color: #ffffff;
+    font-weight: bold;
+}
+
+td {
+    white-space:pre;
+    background-color: #f2f2f2;
+    height: 40px;
+    width: 40px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    padding: 13px;
+}
+
+
+table {
+    display:none;
+    margin: 10px;
+    width: 60%;
+}
